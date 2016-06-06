@@ -1,0 +1,26 @@
+body {
+	background-color: lightblue;
+}
+div {
+	text-align: center;
+}
+td, input {
+	padding: 0.5em;
+	text-align: center;
+	border: 0.1em solid dimgray;
+	margin: 0.5em;
+	color: darkblue;
+	outline: none;
+
+}
+input:focus {
+	background-color: mintcream;
+}
+table {
+	margin: 0 auto;
+	margin-top: 2em;
+}
+p {
+	font: bolder 2em Verdana;
+	color: hotpink;
+}
